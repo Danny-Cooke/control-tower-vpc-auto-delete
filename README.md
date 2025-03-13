@@ -61,7 +61,7 @@ The below basic instructions deploy with minimal custom configuration. This incl
 1. **Clone the repository**:
 
 ```bash
-git clone http://172.18.178.71/security/root-account.git
+git clone git@github.com:Danny-Cooke/control-tower-vpc-auto-delete.git
 cd root-account
 ```
 
